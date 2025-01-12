@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'm Barez</h1>
+<h1>Hi there👋, I'm Barez</h1>
 <h4>A passionate Software Engineering student, Frontend developer and UI&UX Designer from Kurdistan-Iraq. I dedicate my time, energy and ability for learning on my field.</h4>
 
 - 🔭 I’m currently working on **different personal and client projects.**
