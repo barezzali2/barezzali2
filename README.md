@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **different personal and client projects.**
 
-- 🌱 I’m currently learning **NodeJs, Express, Mongo DB, React and Firebase.**
+- 🌱 I’m currently learning **NodeJs, Express, Mongo DB and React Vite.**
 
 - 👯 I’m looking to collaborate on **my final Capstone Project in the coming next months.**
 
