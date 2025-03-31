@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **NodeJs, Express, Mongo DB and React Vite.**
 
-- 👯 I’m looking to collaborate on **my final Capstone Project in the coming next months.**
-
 - 👨‍💻 All of my projects are available at <a href="https://www.behance.net/barezzali22">Behance Profile<a/>
 
 
